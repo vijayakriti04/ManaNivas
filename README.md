@@ -1,0 +1,2 @@
+# ManaNivas
+Event Booking Platform

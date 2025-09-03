@@ -1,2 +1,2 @@
 # ManaNivas
-Event Booking Platform
+Housing  Platform
